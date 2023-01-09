@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻Front-End Developer trained<br> 🗽 Learning English<br>🎮 Gamer in free time with friends<br>🌎  I want to travel to many place<br>🤟 rocker at heart
+👨‍💻Front-End Developer Trained<br> 🗽 Learning English<br>🎮 Gamer in free time with friends<br>🌎  I want to travel to many place<br>🤟 Rocker at Heart
 
 
 ## 🌐 Socials:
