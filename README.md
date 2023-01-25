@@ -1,5 +1,5 @@
-# 💫 About Me:
-###<h1>Hola a todos!</h1>
+# 💫 About Me: <h1>Hola a todos!</h1>
+
 👨‍💻Front-End Developer Trained<br> 🗽 Learning English<br>🎮 Gamer in free time with friends<br>🌎  I want to travel to many place<br>🤟 Rocker at Heart
 
 
